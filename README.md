@@ -1,1 +1,1 @@
-# magicbotZ1_lfj
+修改后的magiclab_deploy，使用手柄连接电脑操控
